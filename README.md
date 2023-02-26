@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47epsfxz68e66clymlvuwqf6xxay6q78ebca9ajvsh&rid=giphy.gif&ct=g" width="300"/>
+</div>
+
 
 ## About
 
@@ -9,7 +12,7 @@ Hey there 👋, I'm Erinle Oluwatomisin a Junior Developer and a Graphics Design
 - 📫 Send a message to Me at tomisinerinle4@gmail.com
 
 
-## Languages and tools
+## :hammer_and_wrench: Languages and tools:
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="60" height="60"/>&nbsp;
@@ -19,11 +22,14 @@ Hey there 👋, I'm Erinle Oluwatomisin a Junior Developer and a Graphics Design
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-
   
-
 </div>
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GorgeousTomi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorgeousTomi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
