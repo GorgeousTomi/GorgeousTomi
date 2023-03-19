@@ -7,7 +7,7 @@
 
 Hey there 👋, I'm Erinle Oluwatomisin a Junior Developer and a Graphics Designer in Nigeria, I studied at Aptech and take programming courses on Udemy, I build Fully Fledged Websites and Web Applications that makes life easier.
 
-- 🔭 I’m currently working on Web Applications
+- 🔭 I’m currently working on TesorFlow
 
 - 📫 Send a message to Me at tomisinerinle4@gmail.com
 
